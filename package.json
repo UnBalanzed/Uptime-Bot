@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "quick.db": "^7.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
